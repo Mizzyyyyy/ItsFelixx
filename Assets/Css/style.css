@@ -30,7 +30,7 @@ body .progress-bar {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(/assets/img/static.gif) !important;
+  background-image: url("../img/static.gif") !important;
   opacity: 0.05;
   /* mix-blend-mode: ; */
   pointer-events: none;
